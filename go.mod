@@ -1,3 +1,3 @@
-module github.com/mssvpn/websocket
+module github.com/mdsdtech/websocket
 
 go 1.12
