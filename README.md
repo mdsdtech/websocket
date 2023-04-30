@@ -1,2 +1,2 @@
-# websocket
-fork gorilla websocket
+*WebSocket Transport Xray Core.
+Support Dynamic Path.
