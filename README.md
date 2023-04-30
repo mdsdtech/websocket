@@ -1,2 +1,2 @@
-#WebSocket Transport Xray Core.
+# WebSocket Transport Xray Core
 *Support Dynamic Path.
